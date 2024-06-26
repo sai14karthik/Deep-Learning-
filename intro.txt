@@ -1,0 +1,20 @@
+- Introduction to a course on deep learning offered through NPTEL
+- Deep learning is prevalent and finds applications in speech, computer vision, natural language processing, etc.
+- Foundational blocks of deep learning will be covered, starting from the perceptron or sigmoid neuron and moving to multilayered networks of neurons
+- Algorithms for training these networks will be covered, specifically back propagation which uses gradient descent
+- Applications of feed forward neural networks like autoencoders and word2vec will be covered
+- Recurrent neural networks will be covered, which deal with sequences and have applications in natural language processing and speech
+- Convolutional neural networks will be covered, which are used for image processing applications and use convolutional operation to come up with abstract representations of an image
+- Encoder-decoder models will be covered, which use a combination of RNNs, CNNs, and feed forward neural networks to apply to various downstream tasks. The attention network is a critical component of these models.
+
+
+course on deep learning covers the foundational blocks of deep learning, starting with the basics of a single neuron and moving on to multilayered networks of neurons. The course covers algorithms for training such networks, including backpropagation, and a range of applications of feedforward neural networks such as autoencoders and word2vec. The course also covers recurrent neural networks, which are used to deal with sequential data, and algorithms for training them, including backpropagation through time. The course explores the challenges of training recurrent neural networks and how to overcome these challenges using forms of recurrent neural networks such as LSTMs and gated recurrent units. The course also covers convolutional neural networks, which are used in the vision domain for image processing tasks such as classification, object detection, and segmentation. Finally, the course explores encoder-decoder models, which use a combination of fundamental blocks such as RNNs, CNNs, and feedforward neural networks to apply deep learning to downstream tasks such as image captioning, machine translation, and document summarization. Attention networks are also covered, which enable the models to learn to pay attention to important parts of the input. 
+
+Bullet Summary:
+- The course covers foundational blocks of deep learning
+- Covers algorithms for training networks, including backpropagation
+- Covers applications of feedforward neural networks such as autoencoders and word2vec
+- Covers recurrent neural networks for sequential data and how to train them
+- Covers convolutional neural networks for image processing tasks
+- Explores encoder-decoder models for downstream tasks such as image captioning and machine translation
+- Covers attention networks, which enable models to pay attention to important parts of input.

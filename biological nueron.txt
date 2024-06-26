@@ -1,0 +1,16 @@
+- Lecture 1 ofis on Deep Learning
+- The lecture will cover a brief history of deep learning
+- The history spans across several fields, starting with biology
+- Joseph von Gerlach proposed the reticular theory in 1871, suggesting the nervous system is a single continuous network
+- Camillo Golgi discovered a staining technique to examine neurons in nervous tissue and supported the reticular theory
+- Santiago Cajal used the same technique and proposed the neuron doctrine, suggesting the nervous system is a collection of neurons
+- The term neuron originated in 1891 and was coined by the person responsible for consolidating the neuron doctrine
+- The debate between the reticular theory and neuron doctrine was settled in 1950 with the advent of electron microscopy
+
+
+In the first lecture of the CS7 015 course on Deep Learning, the instructor provides a brief history of deep learning starting with biological neurons. The lecture covers the history of the nervous system, the reticular theory, staining techniques, and the neuron doctrine. The instructor explains the contributions made by Joseph von Gerlach who proposed the nervous system as a single continuous network, Camillo Golgi who discovered a chemical reaction to examine neurons, and Santiago Cajal who concluded that the nervous system is a collection of discrete cells. The instructor also mentions that the term neuron originated in 1891 by a scientist who also coined the term chromosome. The lecture ends with the controversy between the proponents of the reticular theory and the neuron doctrine, which was settled with the advent of electron microscopy. 
+
+- The first lecture of the CS7 015 course on Deep Learning covers a brief history of deep learning starting with biological neurons.
+- The lecture covers the reticular theory, staining techniques, and the neuron doctrine.
+- The term neuron originated in 1891 by a scientist who also coined the term chromosome.
+- The controversy between the reticular theory and the neuron doctrine was settled with the advent of electron microscopy.
